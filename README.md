@@ -3,6 +3,8 @@
 A Burp Suite extension by **Delledox Security** to log and inspect GraphQL traffic.  
 Adds a **DelledoxGQL Logger** tab in Burp to view requests and responses with operation names and status codes.
 
+<img width="1917" height="899" alt="image" src="https://github.com/user-attachments/assets/0c67173e-b98e-4241-a42d-14fc2f1db97c" />
+
 ---
 
 ## Features
